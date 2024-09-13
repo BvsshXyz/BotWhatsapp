@@ -3,6 +3,7 @@ apt update -y
 apt upgrade -y 
 pkg update
 pkg upgrade 
+pkg install yarn
 pkg install nodejs git -y
 pkg install git
 pkg install php
